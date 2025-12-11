@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Satyori Way</title>
+    <description>Satyori Way brings you daily insights from Ayurveda, Jyotish (Vedic Astrology),
+and Classical Yoga philosophy. Each episode distills ancient wisdom into practical guidance
+for navigating modern life with greater awareness, balance, and purpose.
+
+Hosted by the Satyori Way team, drawing from classical texts and traditional teachings
+to illuminate timeless principles for health, self-understanding, and spiritual growth.</description>
+    <language>en</language>
+    <link>https://satyori.com</link>
+    <atom:link href="https://satyori.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:title>Satyori Way</itunes:title>
+    <itunes:subtitle>Ancient Wisdom for Modern Living</itunes:subtitle>
+    <itunes:author>Satyori Way</itunes:author>
+    <itunes:summary>Satyori Way brings you daily insights from Ayurveda, Jyotish (Vedic Astrology),
+and Classical Yoga philosophy. Each episode distills ancient wisdom into practical guidance
+for navigating modern life with greater awareness, balance, and purpose.
+
+Hosted by the Satyori Way team, drawing from classical texts and traditional teachings
+to illuminate timeless principles for health, self-understanding, and spiritual growth.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Satyori Way</itunes:name>
+      <itunes:email>hello@satyori.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Alternative Health"/>
+    </itunes:category>
+    <itunes:image href="https://satyori.com/podcast-cover.jpg"/>
+    <image>
+      <url>https://satyori.com/podcast-cover.jpg</url>
+      <title>Satyori Way</title>
+      <link>https://satyori.com</link>
+    </image>
+    <lastBuildDate>Thu, 11 Dec 2025 21:19:27 +0000</lastBuildDate>
+    <item>
+      <title>Venus in Vedic Astrology: The Guru of Desire</title>
+      <description>Daily wisdom from Satyori Way. Venus in Vedic Astrology: The Guru of Desire</description>
+      <pubDate>Thu, 11 Dec 2025 19:05:02 +0000</pubDate>
+      <link>https://youtube.com/watch?v=CsmiDyktKFc</link>
+      <guid isPermaLink="false">c86ad8d761884b45523d2283d6ecc0b4</guid>
+      <enclosure url="https://github.com/satyori/satyori.github.io/releases/download/podcast-venus-shukra/audio.mp3" length="3938056" type="audio/mpeg"/>
+      <itunes:title>Venus in Vedic Astrology: The Guru of Desire</itunes:title>
+      <itunes:summary>Daily wisdom from Satyori Way. Venus in Vedic Astrology: The Guru of Desire</itunes:summary>
+      <itunes:duration>4:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Jupiter: Understanding The Great Benefic in Vedic Astrology</title>
+      <description>Daily wisdom from Satyori Way. Jupiter: Understanding The Great Benefic in Vedic Astrology</description>
+      <pubDate>Tue, 09 Dec 2025 21:37:52 +0000</pubDate>
+      <link>https://youtube.com/watch?v=5qI_Ke3eVho</link>
+      <guid isPermaLink="false">6457e7939cf2045bed407cbfd7093a7e</guid>
+      <enclosure url="https://github.com/satyori/satyori.github.io/releases/download/podcast-jupiter-guru/audio.mp3" length="3490004" type="audio/mpeg"/>
+      <itunes:title>Jupiter: Understanding The Great Benefic in Vedic Astrology</itunes:title>
+      <itunes:summary>Daily wisdom from Satyori Way. Jupiter: Understanding The Great Benefic in Vedic Astrology</itunes:summary>
+      <itunes:duration>3:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
