@@ -35,7 +35,20 @@ to illuminate timeless principles for health, self-understanding, and spiritual 
       <title>Satyori Way</title>
       <link>https://satyori.com</link>
     </image>
-    <lastBuildDate>Mon, 22 Dec 2025 11:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:05:10 +0000</lastBuildDate>
+    <item>
+      <title>Svadhyaya: The Practice of Self-Study</title>
+      <description>Daily wisdom from Satyori Way. Svadhyaya: The Practice of Self-Study</description>
+      <pubDate>Tue, 23 Dec 2025 11:05:07 +0000</pubDate>
+      <link>https://satyori.com/articles/svadhyaya</link>
+      <guid isPermaLink="false">satyori-podcast-svadhyaya</guid>
+      <enclosure url="https://github.com/satyori/satyori.github.io/releases/download/podcast-svadhyaya/audio_full.mp3" length="4086431" type="audio/mpeg"/>
+      <itunes:title>Svadhyaya: The Practice of Self-Study</itunes:title>
+      <itunes:summary>Daily wisdom from Satyori Way. Svadhyaya: The Practice of Self-Study</itunes:summary>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Patience as Practice</title>
       <description>Daily wisdom from Satyori Way. Patience as Practice</description>
